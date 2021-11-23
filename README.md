@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R1nge
 - 👀 I’m interested in Game Development
-- 📫 Twitter/Telegram: @R1ngeDev
+- 📫 VK/Telegram: @R1ngeDev
 
 <!---
 R1nge/R1nge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
