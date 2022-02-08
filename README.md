@@ -4,9 +4,11 @@
 - 📫 VK: https://vk.com/r1ngedev
 - 📫 TG: @R1ngeDev
 - 📫 E-Mail: r1ngegamedev@gmail.com
-
+<a href="https://github.com/R1nge">
 <img src="https://github-readme-stats.vercel.app/api?username=R1nge" height="180em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1nge&layout=compact" height="180em">
+</a>
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=R1nge&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![codewars](https://www.codewars.com/users/R1nge/badges/small)](https://www.codewars.com/users/R1nge) 
