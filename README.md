@@ -7,13 +7,6 @@
 
 ---
 
-<a href="https://github.com/R1nge" style="display: inline">
-<img alt="R1nge's all Git commits" src="https://github-readme-stats.vercel.app/api?username=R1nge" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kevinadhiguna&amp;show_icons=true&amp;theme=vue-dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
-<img alt="R1nge's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1nge&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinadhiguna&amp;layout=compact&amp;theme=vue-dark&amp;hide=shards,shaderlab,hlsl,html,css&amp;langs_count=6" style="max-width: 100%;" height="180em">
-</a>
-
----
-
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=R1nge&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![codewars](https://www.codewars.com/users/R1nge/badges/small)](https://www.codewars.com/users/R1nge) 
@@ -39,5 +32,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
