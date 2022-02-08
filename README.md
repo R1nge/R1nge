@@ -8,7 +8,7 @@
 ---
 
 <a href="https://github.com/R1nge">
-<img src="https://github-readme-stats.vercel.app/api?username=R1nge" height="180em">
+<img alt="R1nge's all Git commits" src="https://github-readme-stats.vercel.app/api?username=R1nge" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kevinadhiguna&amp;show_icons=true&amp;theme=vue-dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1nge&layout=compact" height="180em">
 </a>
 
