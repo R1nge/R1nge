@@ -5,10 +5,8 @@
 - 📫 TG: @R1ngeDev
 - 📫 E-Mail: r1ngegamedev@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R1nge)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1nge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=R1nge" height="180em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1nge&layout=compact" height="180em">
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=R1nge&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![codewars](https://www.codewars.com/users/R1nge/badges/small)](https://www.codewars.com/users/R1nge) 
