@@ -9,7 +9,7 @@
 
 <a href="https://github.com/R1nge">
 <img alt="R1nge's all Git commits" src="https://github-readme-stats.vercel.app/api?username=R1nge" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kevinadhiguna&amp;show_icons=true&amp;theme=vue-dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1nge&layout=compact" height="180em">
+<img alt="R1nge's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1nge&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinadhiguna&amp;layout=compact&amp;theme=vue-dark&amp;hide=shards,shaderlab,hlsl,html,css&amp;langs_count=6" style="max-width: 100%;" height="180em">
 </a>
 
 ---
