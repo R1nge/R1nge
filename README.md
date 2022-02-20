@@ -10,13 +10,6 @@ r1ngedev
 
 ---
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=R1nge&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-[![codewars](https://www.codewars.com/users/R1nge/badges/small)](https://www.codewars.com/users/R1nge) 
-
----
-
-
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
