@@ -7,8 +7,9 @@ r1ngedev
 <a href="https://t.me/r1ngedev">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://vk.com/r1ngedev">![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)</a>
 <a href="https://myanimelist.net/profile/R1nge">![MAL](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)</a>
-
+<a href="https://myvideogamelist.com/mylist/R1nge" width="138" height="29"><img src="https://user-images.githubusercontent.com/59400159/155316059-43ea0959-0550-4efe-bf7b-eeb755b483f6.png" height="28"></a>
 ---
+
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
