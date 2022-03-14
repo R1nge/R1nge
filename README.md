@@ -8,8 +8,6 @@ I’m interested in Game Development
 <a href="https://myvideogamelist.com/mylist/R1nge" width="138" height="29"><img src="https://user-images.githubusercontent.com/59400159/155317733-2e2007be-1c84-4ff0-801d-2df1a43f0fb5.png" height="28"></a>
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=R1nge&theme=dark&hide_border=true&ring=FF7BA9&fire=FF7BA9&currStreakLabel=FF7BA9)](https://git.io/streak-stats)
-
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
