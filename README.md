@@ -1,4 +1,4 @@
-# <p align="center">Hi, R1nge here 👋</p>
+# <p align="left">Hi, R1nge here 👋</p>
 
 I’m interested in gamedev
 
