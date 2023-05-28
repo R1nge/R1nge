@@ -2,7 +2,7 @@
 
 
 Project (from old to recent)  
-- [Bomberman](https://github.com/R1nge/BomberMan) NGO
+- [Bomberman](https://github.com/R1nge/BomberMan) NGO, Addressables
 - [CafeHC](https://github.com/R1nge/CafeHC) Zenject (WIP)
 - [InfiniteArenaShooter](https://github.com/R1nge/InfiniteArenaShooter) Zenject, Playfab, UI Toolkit (WIP)
 - [DiscordFootball](https://github.com/R1nge/DiscordFootball) NGO, VContainer, UI Toolkit, UniTask (WIP)
