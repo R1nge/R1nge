@@ -1,8 +1,9 @@
-# <p align="left">Hi, R1nge here 👋</p>
-
-Working on multiple projects
-
-Projects(mostly outdated) https://t.me/R1ngeProjects
+<p align="center"> <img src="https://github.com/R1nge/R1nge/assets/59400159/f2b86468-f528-4bf9-81b7-29165d168b58"> </p>
 
 
-<a href="https://t.me/r1ngedev">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+Project (from old to recent)  
+- [Bomberman](https://github.com/R1nge/BomberMan) NGO
+- [CafeHC](https://github.com/R1nge/CafeHC) Zenject (WIP)
+- [InfiniteArenaShooter](https://github.com/R1nge/InfiniteArenaShooter) Zenject, Playfab, UI Toolkit (WIP)
+- [DiscordFootball](https://github.com/R1nge/DiscordFootball) NGO, VContainer, UI Toolkit, UniTask (WIP)
+- [FlappyBird](https://github.com/R1nge/MorpehECS_FlappyBird) Morpeh ECS
