@@ -3,7 +3,7 @@
 
 Projects (from old to recent)  
 - [Bomberman](https://github.com/R1nge/BomberMan) NGO, Addressables
-- [CafeHC](https://github.com/R1nge/CafeHC) Zenject (WIP)
-- [InfiniteArenaShooter](https://github.com/R1nge/InfiniteArenaShooter) Zenject, Playfab, UI Toolkit (WIP)
+- [CafeHC](https://github.com/R1nge/CafeHC) Zenject (Frozen)
+- [InfiniteArenaShooter](https://github.com/R1nge/InfiniteArenaShooter) Zenject, Playfab, UI Toolkit (Frozen)
 - [DiscordFootball](https://github.com/R1nge/DiscordFootball) NGO, VContainer, UI Toolkit, UniTask (WIP)
 - [FlappyBird](https://github.com/R1nge/MorpehECS_FlappyBird) Morpeh ECS
