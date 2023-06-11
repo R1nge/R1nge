@@ -7,3 +7,4 @@ Projects (from old to recent)
 - [InfiniteArenaShooter](https://github.com/R1nge/InfiniteArenaShooter) Zenject, Playfab, UI Toolkit (Frozen)
 - [DiscordFootball](https://github.com/R1nge/DiscordFootball) NGO, VContainer, UI Toolkit, UniTask (WIP)
 - [FlappyBird](https://github.com/R1nge/MorpehECS_FlappyBird) Morpeh ECS
+- [SoulForce](https://github.com/R1nge/SoulForce) VContainer (WIP)
