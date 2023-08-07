@@ -8,6 +8,7 @@ Projects (from old to recent)
 - [DiscordFootball](https://github.com/R1nge/DiscordFootball) NGO, VContainer, UI Toolkit, UniTask (Cancelled)
 - [FlappyBird](https://github.com/R1nge/MorpehECS_FlappyBird) Morpeh ECS
 - [SoulForce](https://github.com/R1nge/SoulForce) VContainer (WIP)
+- [AvoidBoxes](https://github.com/R1nge/AvoidBoxes) VContainer
 
 Contacts:  
 Telegram: R1nge  
