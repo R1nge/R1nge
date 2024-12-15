@@ -11,7 +11,7 @@ C++
 - More to come
 
 Also I have expericence with
-- .Net (telegram bots, winform)  
+- .Net (telegram bots, winforms)  
 - Native android development (Kotlin)  
 - Web development (Vanila js, Vue)  
 - Python (mainly AI models and sockets)  
