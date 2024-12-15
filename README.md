@@ -1,4 +1,4 @@
-Unity:  
+Unity  
 - [Bomberman](https://github.com/R1nge/BomberMan) - a multiplayer clone with skins and powerups  
 - [wAIfu](https://github.com/R1nge/OpenWaifu) - an AI companion  
 - [Suika](https://github.com/R1nge/Suika) - a clone with modding support  
@@ -6,7 +6,7 @@ Unity:
 - [Flappy bird ECS](https://github.com/R1nge/MorpehECS_FlappyBird) - a clone made with morpeh ecs  
 - [Asteroids 3D ECS](https://github.com/R1nge/MorpehECS_3D_Asteroids) - a clone made with morpeh ecs  
 
-C++:  
+C++  
 - [Flappy bird SFML](https://github.com/R1nge/FlappyBird_SFML) - a clone made with sfml  
 - More to come
 
