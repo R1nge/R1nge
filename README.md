@@ -10,7 +10,7 @@ C++
 - [Flappy bird SFML](https://github.com/R1nge/FlappyBird_SFML) - a clone made with sfml  
 - More to come
 
-Also I have expericence with:
+Also I have expericence with
 - .Net (telegram bots, winform)  
 - Native android development (Kotlin)  
 - Web development (Vanila js, Vue)  
