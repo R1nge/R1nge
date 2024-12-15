@@ -1,13 +1,13 @@
 Unity:  
 - [Bomberman](https://github.com/R1nge/BomberMan) - a multiplayer clone with skins and powerups  
 - [wAIfu](https://github.com/R1nge/OpenWaifu) - an AI companion  
-- [Suika](https://github.com/R1nge/Suika) - a suika clone with modding support  
+- [Suika](https://github.com/R1nge/Suika) - a clone with modding support  
 - [Run&Bomb](https://github.com/R1nge/RunAndBomb) - a hyper-casual game  
-- [Flappy bird ECS](https://github.com/R1nge/MorpehECS_FlappyBird) - self-explanatory  
-- [Asteroids 3D ECS](https://github.com/R1nge/MorpehECS_3D_Asteroids) - self-explanatory  
+- [Flappy bird ECS](https://github.com/R1nge/MorpehECS_FlappyBird) - a clone made with morpeh ecs  
+- [Asteroids 3D ECS](https://github.com/R1nge/MorpehECS_3D_Asteroids) - a clone made with morpeh ecs  
 
 C++:  
-- [Flappy bird SFML C++](https://github.com/R1nge/FlappyBird_SFML) - self-explanatory
+- [Flappy bird SFML](https://github.com/R1nge/FlappyBird_SFML) - a clone made with sfml  
 - More to come
 
 Also I have expericence with:
