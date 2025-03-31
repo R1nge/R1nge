@@ -11,7 +11,7 @@ C++
 - More to come
 
 Java
-- [Wolves Emperor](https://github.com/R1nge/Wolves-Emperor) - a minecraft mod that allows to control tamed wolves
+- [Wolves Emperor](https://github.com/R1nge/Wolves-Emperor) - a minecraft mod that allows to control tamed wolves (SOON)
 
 Also I have expericence with
 - .Net (telegram bots, winforms, asp)  
