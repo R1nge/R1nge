@@ -14,7 +14,7 @@ Java
 - [Wolves Emperor](https://github.com/R1nge/Wolves-Emperor) - a minecraft mod that allows to control tamed wolves
 
 Also I have expericence with
-- .Net (telegram bots, winforms)  
+- .Net (telegram bots, winforms, asp)  
 - Native android development (Kotlin)  
 - Web development (Vanila js, Vue)  
 - Python (mainly AI models and sockets)  
