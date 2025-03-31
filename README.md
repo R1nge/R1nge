@@ -10,6 +10,9 @@ C++
 - [Flappy bird SFML](https://github.com/R1nge/FlappyBird_SFML) - a clone made with sfml  
 - More to come
 
+Java
+- [Wolves Emperor](https://github.com/R1nge/Wolves-Emperor) - a minecraft mod that allows to control tamed wolves
+
 Also I have expericence with
 - .Net (telegram bots, winforms)  
 - Native android development (Kotlin)  
