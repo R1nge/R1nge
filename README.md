@@ -12,7 +12,7 @@ C++
 
 Java
 - [Wolves Emperor](https://modrinth.com/mod/wolves-emperor/) - a minecraft mod that allows to control tamed wolves (SOON)
-- [Pets Protector](https://modrinth.com/mod/pets-protector/) - a minecraft mod that prevents tamed wolves from getting damage from player
+- [Pets Protector](https://modrinth.com/mod/pets-protector/) - a minecraft mod that prevents tamed wolves from getting damage from player (SOON)
 
 Also I have expericence with
 - .Net (telegram bots, winforms, asp)  
