@@ -1,6 +1,5 @@
 Unity  
 - [Bomberman](https://github.com/R1nge/BomberMan) - a multiplayer clone with skins and powerups  
-- [wAIfu](https://github.com/R1nge/OpenWaifu) - an AI companion  
 - [Suika](https://github.com/R1nge/Suika) - a clone with modding support  
 - [Run&Bomb](https://github.com/R1nge/RunAndBomb) - a hyper-casual game  
 - [Flappy bird ECS](https://github.com/R1nge/MorpehECS_FlappyBird) - a clone made with morpeh ecs  
@@ -13,6 +12,13 @@ C++
 Java
 - [Wolves Emperor](https://modrinth.com/mod/wolves-emperor/) - a minecraft mod that allows to control tamed wolves (SOON)
 - [Pets Protector](https://modrinth.com/mod/pets-protector/) - a minecraft mod that prevents tamed wolves from getting damage from player (SOON)
+
+C#
+- A telegram bot that converts video and audio files into video notes or voice messages with correct waveform
+
+Mix
+- A telegram bot that allows to change the voice (C#, Python)
+- [wAIfu](https://github.com/R1nge/OpenWaifu) - an AI companion (C#, Python)
 
 Also I have expericence with
 - .Net (telegram bots, winforms, asp)  
