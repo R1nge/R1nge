@@ -14,6 +14,7 @@ Java
 
 C#
 - A telegram bot that converts video and audio files into video notes or voice messages with correct waveform
+- A telegram bot that returns a vtuber video message
 
 Mix
 - A telegram bot that allows to change the voice (C#, Python)
