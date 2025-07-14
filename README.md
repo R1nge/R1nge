@@ -13,11 +13,11 @@ Java
 - [Pets Protector](https://modrinth.com/mod/pets-protector/) - a minecraft mod that prevents tamed wolves from getting damage from player
 
 C#
-- A telegram bot that converts video and audio files into video notes or voice messages with correct waveform
-- A telegram bot that returns a vtuber video message
+- [R1ngeVideosBot](https://t.me/R1ngeVideosBot) - a telegram bot that converts video and audio files into video notes or voice messages with correct waveform
+- [R1ngeAvatarBot](https://t.me/R1ngeAvatarBot) - a telegram bot that returns a vtuber video message
 
 Mix
-- A telegram bot that allows to change the voice (C#, Python)
+- [R1ngeFemVoice](https://t.me/R1ngeFemVoiceBot) - a telegram bot that allows to change the voice (C#, Python)
 - [wAIfu](https://github.com/R1nge/OpenWaifu) - an AI companion (C#, Python)
 - [Wolves Emperor](https://modrinth.com/mod/wolves-emperor/) - a minecraft mod that allows to control tamed wolves using voice commands (Java, Python)
 
@@ -26,7 +26,9 @@ Also I have expericence with
 - Native android development (Kotlin)  
 - Web development (Vanila js, Vue)  
 - Python (mainly AI models and sockets)  
-- Go (sockets)  
+- Go (sockets)
+- Arduino
+- ESP32 (soon)
 
 Contacts:
 - Telegram: R1nge  
