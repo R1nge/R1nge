@@ -31,5 +31,5 @@ Also I have expericence with
 - ESP32 (soon)
 
 Contacts:
-- Telegram: R1nge  
+- Telegram: [R1nge](https://t.me/R1nge)  
 - Session: 05b5e56221b139ec6bd374f799351706868202cf63201edbab67c347cf1b8e1b6d
