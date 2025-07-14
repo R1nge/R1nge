@@ -10,7 +10,7 @@ C++
 - Some day I would write a game engine...
 
 Java
-- [Pets Protector](https://modrinth.com/mod/pets-protector/) - a minecraft mod that prevents tamed wolves from getting damage from player
+- [Pets Protector](https://github.com/R1nge/Pets-Protector) - a minecraft mod that prevents tamed wolves from getting damage from player
 
 C#
 - [R1ngeVideosBot](https://t.me/R1ngeVideosBot) - a telegram bot that converts video and audio files into video notes or voice messages with correct waveform
@@ -19,7 +19,7 @@ C#
 Mix
 - [R1ngeFemVoice](https://t.me/R1ngeFemVoiceBot) - a telegram bot that allows to change the voice (C#, Python)
 - [wAIfu](https://github.com/R1nge/OpenWaifu) - an AI companion (C#, Python)
-- [Wolves Emperor](https://modrinth.com/mod/wolves-emperor/) - a minecraft mod that allows to control tamed wolves using voice commands (Java, Python)
+- [Wolves Emperor](https://github.com/R1nge/Wolves-Emperor) - a minecraft mod that allows to control tamed wolves using voice commands (Java, Python)
 
 Also I have expericence with
 - .Net (telegram bots, winforms, asp)  
