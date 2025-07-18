@@ -3,7 +3,8 @@ Unity
 - [Suika](https://github.com/R1nge/Suika) - a clone with modding support  
 - [Run&Bomb](https://github.com/R1nge/RunAndBomb) - a hyper-casual game  
 - [Flappy bird ECS](https://github.com/R1nge/MorpehECS_FlappyBird) - a clone made with morpeh ecs  
-- [Asteroids 3D ECS](https://github.com/R1nge/MorpehECS_3D_Asteroids) - a clone made with morpeh ecs  
+- [Asteroids 3D ECS](https://github.com/R1nge/MorpehECS_3D_Asteroids) - a clone made with morpeh ecs
+- [KickAssMod](https://github.com/R1nge/KickAssMod) - a mod for PEAK to kick friends's asses (soon)    
 
 C++  
 - [Flappy bird SFML](https://github.com/R1nge/FlappyBird_SFML) - a clone made with sfml  
