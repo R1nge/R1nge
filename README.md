@@ -10,7 +10,7 @@ C++
 - Some day I would write a game engine...
 
 Java
-- [Pets Protector](https://github.com/R1nge/Pets-Protector) - a minecraft mod that prevents tamed wolves from getting damage from player
+- [Pets Protector](https://github.com/R1nge/Pets-Protector) - a minecraft mod that prevents tamed wolves from getting damage from players
 
 C#
 - [R1ngeVideosBot](https://t.me/R1ngeVideosBot) - a telegram bot that converts video and audio files into video notes or voice messages with correct waveform
