@@ -18,7 +18,7 @@ C#
 - [R1ngeAvatarBot](https://t.me/R1ngeAvatarBot) - a telegram bot that returns a vtuber video message
 
 Mix
-- [R1ngeFemVoice](https://t.me/R1ngeFemVoiceBot) - a telegram bot that allows to change the voice (C#, Python)
+- [R1ngeFemVoice](https://t.me/R1ngeFemVoiceBot) - a telegram bot that changes the voice (C#, Python)
 - [wAIfu](https://github.com/R1nge/OpenWaifu) - an AI companion (C#, Python)
 - [Wolves Emperor](https://github.com/R1nge/Wolves-Emperor) - a minecraft mod that allows to control tamed wolves using voice commands (Java, Python)
 
