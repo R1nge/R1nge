@@ -16,6 +16,7 @@ Java
 C#
 - [R1ngeVideosBot](https://t.me/R1ngeVideosBot) - Telegram bot that converts video and audio files into video notes or voice messages with correct waveform
 - [R1ngeAvatarBot](https://t.me/R1ngeAvatarBot) - Telegram bot that returns a vtuber video message
+- [R1ngeStickersBot](https://t.me/R1ngeStickersBot) - Telegram bot converts images into png with required dimensions
 
 Mix
 - [R1ngeFemVoice](https://t.me/R1ngeFemVoiceBot) - Telegram bot that changes the voice (C#, Python)
