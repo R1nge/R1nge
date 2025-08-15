@@ -14,12 +14,12 @@ Java
 - [Pets Protector](https://github.com/R1nge/Pets-Protector) - Minecraft mod that prevents tamed wolves from getting damage from players
 
 C#
-- [R1ngeVideosBot](https://t.me/R1ngeVideosBot) - Telegram bot that converts video and audio files into video notes or voice messages with correct waveform
-- [R1ngeAvatarBot](https://t.me/R1ngeAvatarBot) - Telegram bot that returns a vtuber video message
-- [R1ngeStickersBot](https://t.me/R1ngeStickersBot) - Telegram bot converts images into png with required dimensions
+- [R1ngeVideosStickerBot](https://t.me/R1ngeVideosBot) - Telegram bot that converts video and audio files into video notes or voice messages with correct waveform also converts images into png with required dimensions and format
+- [R1ngeAvatarBot](https://t.me/R1ngeAvatarBot) - Telegram bot that returns a vtuber video message  
+~~[R1ngeStickersBot](https://t.me/R1ngeStickersBot) - Telegram bot converts images into png with required dimensions~~
 
 Mix
-- [R1ngeFemVoice](https://t.me/R1ngeFemVoiceBot) - Telegram bot that changes the voice (C#, Python)
+- [R1ngeFemVoice](https://t.me/R1ngeFemVoiceBot) - Telegram bot that changes voice (C#, Python)
 - [wAIfu](https://github.com/R1nge/OpenWaifu) - AI companion (C#, Python)
 - [Wolves Emperor](https://github.com/R1nge/Wolves-Emperor) - Minecraft mod that allows to control tamed wolves using voice commands (Java, Python)
 - [R1ngeDiceBot](https://t.me/R1ngeDiceBot) - Telegram bot that rolls the dice (C++, Arduino, C#)
