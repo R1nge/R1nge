@@ -1,3 +1,5 @@
+I have a [blog](https://r1nge.com)!!!
+
 Unity  
 - [Bomberman](https://github.com/R1nge/BomberMan) - Multiplayer clone with skins and powerups  
 - [Suika](https://github.com/R1nge/Suika) - Clone with modding support  
