@@ -6,7 +6,8 @@ Unity
 - [Run&Bomb](https://github.com/R1nge/RunAndBomb) - Hyper-casual game  
 - [Flappy bird ECS](https://github.com/R1nge/MorpehECS_FlappyBird) - Clone made with morpeh ecs  
 - [Asteroids 3D ECS](https://github.com/R1nge/MorpehECS_3D_Asteroids) - Clone made with morpeh ecs
-- [KickAssMod](https://github.com/R1nge/KickAssMod) - Mod for PEAK to kick friends's asses (soon)    
+- [Architecure](https://github.com/R1nge/Unity_VContainer_UniTask_R3_StateMachine) - Trying out to figure out the most convinient way to organize games
+- [Pacman ECS](https://github.com/R1nge/Pacman_new_architecture_demo) - Testing out new architecture to speed up development
 
 C++  
 - [Flappy bird SFML](https://github.com/R1nge/FlappyBird_SFML) - Clone made with sfml  
