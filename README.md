@@ -11,7 +11,8 @@ Unity
 
 C++  
 - [Flappy bird SFML](https://github.com/R1nge/FlappyBird_SFML) - Clone made with sfml  
-- Some day I would write a game engine...
+- ~~Some day I would write a game engine...~~
+- [NKEngine](https://github.com/R1nge/NKEngine) - SDL2-based game engine
 
 Java
 - [Pets Protector](https://github.com/R1nge/Pets-Protector) - Minecraft mod that prevents tamed wolves from getting damage from players
