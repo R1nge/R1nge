@@ -1,4 +1,5 @@
-I have a [blog](https://r1nge.com)!!!
+I have a [blog](https://r1nge.com)!!!  
+Self-hosting now, will continue mirroring some repos  
 
 Unity  
 - [Bomberman](https://github.com/R1nge/BomberMan) - Multiplayer clone with skins and powerups  
